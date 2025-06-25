@@ -8,6 +8,7 @@ This is not just one script, but a **cohesive suite of interconnected modules**:
 1.  **🤖 The Master Job Manager (MJM):** An automated system that tracks your job applications by parsing your emails, providing a live dashboard with key metrics and a funnel analysis.
 2.  **📝 The AI Resume Tailor (RTS):** A sophisticated, three-stage AI engine that analyzes job descriptions, scores your master profile against them, and generates a perfectly tailored resume document on command.
 
+Easy access setup link: https://docs.google.com/spreadsheets/d/12jj5lTyu_MzA6KBkfD-30mj-KYHaX-BjouFMtPIIzFc/edit?usp=sharing
 
 ---
 
